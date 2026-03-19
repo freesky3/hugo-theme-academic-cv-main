@@ -63,31 +63,39 @@ education:
     end: 2027-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
+  - role: Research Assistant
+    org: Shanghai Jiao Tong University (Lab of Prof. Shanshan Qin)
     start: 2020-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Working in the lab of Prof. Shanshan Qin.
     button:
-      text: View portfolio
-      url: /
+      text: Visit Lab Website
+      url: https://ssqinlab.com/people/
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Research Assistant
+    org: Shanghai Jiao Tong University (Lab of Prof. Weilong Zheng)
+    start: 2025-02-01
+    end: 2025-11-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Working in the lab of Prof. Weilong Zheng.
+    button:
+      text: Visit Lab Website
+      url: https://weilongzheng.github.io/
+      icon: hero/arrow-down-tray
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: Deep Learning
         level: 4
+      - label: LLM
+        level: 3
+      - label: Java
+        level: 3
+      - label: C++
+        level: 3
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -98,16 +106,19 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
+  - name: Japanese
+    level: 1
+    label: Beginner
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
