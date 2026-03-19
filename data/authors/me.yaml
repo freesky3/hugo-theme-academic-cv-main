@@ -2,68 +2,65 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Zikai Fang
+  given: Zikai
+  family: Fang
+  alternate: '方子锴'  # Example: 王伟
+  pronunciation: 'Fāng Zǐkāi'  # Example: Wáng Wěi
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+# postnominals:
+#   - PhD
+#   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Undergraduate Student in Physics
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Zikai Fang is a dedicated student focused on computational neuroscience. 
+  He is passionate about exploring the complexity of the brain through 
+  mathematical models and computational simulations.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Shanghai Jiao Tong University
+    url: https://en.sjtu.edu.cn/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:sky_walker@sjtu.edu.cn
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  # - icon: brands/x
+  #   url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://github.com/freesky3
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/example/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0008-9201-8713
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Computational Neuroscience
+  - Brain-Computer Interface
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  # - degree: PhD Computer Science
+  #   institution: Stanford University
+  #   start: 2015-09-01
+  #   end: 2019-06-30
+  #   summary: |
+  #     Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  #   button:
+  #     text: Download dissertation
+  #     url: /resume.pdf
+  #     icon: hero/arrow-down-tray
+  # - degree: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   start: 2013-09-01
+  #   end: 2015-05-31
+  - degree: BS Physics
+    institution: Shanghai Jiao Tong University
+    start: 2023-09-01
+    end: 2027-06-30
 
 experience:
   - role: Senior AI Research Scientist
